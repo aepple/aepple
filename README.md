@@ -4,8 +4,6 @@
 
 🎓 I studied Computer Science.
 
-⏹️ I'm currently working as Frontend developer @ [WithSocrates](http://edrevllc.us.tempcloudsite.com/)
-
 🔎 I'm too curious about too many things and love learning.
 
 
